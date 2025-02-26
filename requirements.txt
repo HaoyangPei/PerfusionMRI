@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+matplotlib
+pytorch_lightning
+wandb
+glob
+tqdm
+scipy
+h5py
