@@ -14,8 +14,7 @@ Install dependencies with
 ### Training
 Run the training script with
 ```shell
-  Python \
-  train.py \
+  Python train.py \
   --data-path 'data_path' \
   --batch 1 \
   --out-map 'output map types (e.g. MTT/CBV/CBF)' \
