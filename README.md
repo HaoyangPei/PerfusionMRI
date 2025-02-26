@@ -10,7 +10,7 @@ Install dependencies with
 ```
 
 ### Imaging protocol
-The details of our imaging protocol are available at: [Imaging Protocol](https://github.com/HaoyangPei/PerfusionMRI/tree/main/Imaging%20Protocol)
+The details of our imaging protocol are available at [Imaging Protocol](https://github.com/HaoyangPei/PerfusionMRI/tree/main/Imaging%20Protocol)
 
 ### Prepare the data
 #### 1. Store the Data in H5 Format
