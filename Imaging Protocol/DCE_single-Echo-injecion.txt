@@ -1,0 +1,144 @@
+Coil selection =		"SENSE-Head-8";
+     element selection =	"SENSE";
+     connection =		"d";
+Dual coil =			"no";
+CLEAR =				"yes";
+    body tuned =		"no";
+FOV          RL (mm) =		240;
+             AP (mm) =		240;
+             FH (mm) =		44;
+Voxel size   RL (mm) =		2;
+             AP (mm) =		2;
+             FH (mm) =		4;
+Recon voxel size (mm) =		1.94915259;
+Fold-over suppression =		"no";
+Slice oversampling =		"user defined";
+    oversample factor =		1.25;
+RF select. FOS =		"no";
+Reconstruction matrix =		128;
+SENSE =				"yes";
+    P reduction (AP) =		2.29999995;
+    P os factor =		1;
+    S reduction (FH) =		1;
+k-t BLAST =			"no";
+Overcontiguous slices =		"no";
+Stacks =			1;
+    slices =			11;
+    slice orientation =		"transverse";
+    fold-over direction =	"AP";
+    fat shift direction =	"L";
+Stack Offc. AP (P=+mm) =	-13.2362442;
+            RL (L=+mm) =	-3.52276683;
+            FH (H=+mm) =	36.1242409;
+      Ang.  AP (deg) =		-1.58312607;
+            RL (deg) =		0.256794363;
+            FH (deg) =		1.9565506;
+Chunks =			1;
+Large table movement =		"no";
+PlanAlign =			"no";
+REST slabs =			0;
+Interactive positioning =	"no";
+Patient position =		"head first";
+        orientation =		"supine";
+Scan type =			"Imaging";
+Scan mode =			"3D";
+    technique =			"FFE";
+Contrast enhancement =		"T1";
+Acquisition mode =		"cartesian";
+Fast Imaging mode =		"TFE";
+    3D non-selective =		"no";
+    shot mode =			"single-shot";
+TFE startup echoes =		"user defined";
+        (number) =		0;
+    shot interval =		"shortest";
+    profile order =		"linear";
+    turbo direction =		"Y";
+Echoes =			1;
+    partial echo =		"no";
+    shifted echo =		"no";
+TE =				"shortest";
+Flip angle (deg) =		26;
+TR =				"shortest";
+Halfscan =			"yes";
+    factor Y =			0.675000012;
+    factor Z =			0.800000012;
+Water-fat shift =		"user defined";
+     (pixels) =			1;
+Shim =				"default";
+Fat suppression =		"ProSet";
+   pulse type =			"11";
+Water suppression =		"no";
+TFE prepulse =			"saturate";
+    slice selection =		"no";
+    delay =			"shortest";
+MTC =				"no";
+T2prep =			"no";
+Research prepulse =		"no";
+Diffusion mode =		"no";
+SAR mode =			"high";
+B1 mode =			"default";
+PNS mode =			"moderate";
+Gradient mode =			"maximum";
+SofTone mode =			"no";
+Cardiac synchronization =	"no";
+Heart rate > 250 bpm =		"no";
+Respiratory compensation =	"no";
+Navigator respiratory comp =	"no";
+Flow compensation =		"no";
+fMRI echo stabilisation =	"no";
+Motion smoothing =		"no";
+NSA =				1;
+Angio / Contrast enh. =		"contrast enh.";
+Quantitative flow =		"no";
+CE profile order =		"linear";
+Manual start =			"yes";
+Dynamic study =			"individual";
+    dyn scans =			150;
+    recon multiplier =		1;
+    dyn scan times =		"shortest";
+    FOV time mode =		"default";
+    dummy scans =		2;
+    immediate subtraction =	"no";
+    fast next scan =		"no";
+    synch. ext. device =	"no";
+    dyn stabilization =		"no";
+    prospect. motion corr. =	"no";
+Keyhole =			"no";
+Arterial Spin labeling =	"no";
+Preparation phases =		"auto";
+Interactive F0 =		"no";
+B0 field map =			"no";
+B1 field map =			"no";
+MIP/MPR =			"no";
+Images =			" M", (3) " no";
+Autoview image =		" M";
+Calculated images =		(4) " no";
+Reference tissue =		"Lung";
+Preset window contrast =	"soft";
+Reconstruction mode =		"real time";
+    reuse memory =		"no";
+Save raw data =			"no";
+Hardcopy protocol =		"no";
+Ringing filtering =		"rectangular";
+Geometry correction =		"default";
+Elliptical k-space shutter =	"default";
+IF_info_seperator =		0;
+Total scan duration =		"05:21.5";
+Rel. signal level (%) =		100;
+Act. TR/TE (ms) =		"5.1 / 2.5";
+Dyn. scan time =		"00:02.1";
+Time to k0 =			"00:05.0";
+ACQ matrix M x P =		"120 x 120";
+ACQ voxel MPS (mm) =		"2.00 / 2.00 / 4.00";
+REC voxel MPS (mm) =		"1.88 / 1.88 / 4.00";
+Scan percentage (%) =		100;
+TFE factor =			37;
+TFE dur. shot / acq (ms) =	"192.3 / 187.7";
+Min. TS delay =			50.722599;
+Act. WFS (pix) / BW (Hz) =	"1.001 / 434.0";
+Min. WFS (pix) / Max. BW (Hz) =	"0.189 / 2305.0";
+SAR / head =			"<  92 %";
+Whole body / level =		"< 0.2 W/kg / normal";
+B1 rms =			"2.24 uT";
+PNS / level =			"79 % / normal";
+Sound Pressure Level (dB) =	25.501997;

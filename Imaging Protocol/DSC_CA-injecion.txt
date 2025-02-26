@@ -1,0 +1,129 @@
+Coil selection =		"SENSE-Head-8";
+     element selection =	"SENSE";
+     connection =		"d";
+Dual coil =			"no";
+CLEAR =				"yes";
+    body tuned =		"no";
+FOV          RL (mm) =		240;
+             AP (mm) =		240;
+             FH (mm) =		52;
+Voxel size   RL (mm) =		2;
+             AP (mm) =		2;
+Slice thickness (mm) =		4;
+Recon voxel size (mm) =		2;
+Fold-over suppression =		"no";
+Reconstruction matrix =		128;
+SENSE =				"yes";
+    P reduction (AP) =		2;
+    P os factor =		1;
+k-t BLAST =			"no";
+Stacks =			1;
+    type =			"parallel";
+    slices =			13;
+    slice gap =			"user defined";
+          gap (mm) =		0;
+    slice orientation =		"transverse";
+    fold-over direction =	"AP";
+    fat shift direction =	"A";
+Stack Offc. AP (P=+mm) =	-13.2362442;
+            RL (L=+mm) =	-3.52276683;
+            FH (H=+mm) =	36.1242409;
+      Ang.  AP (deg) =		-1.58312607;
+            RL (deg) =		0.256794363;
+            FH (deg) =		1.9565506;
+Minimum number of packages =	1;
+Slice scan order =		"default";
+Large table movement =		"no";
+PlanAlign =			"no";
+REST slabs =			0;
+Interactive positioning =	"no";
+Patient position =		"head first";
+        orientation =		"supine";
+Scan type =			"Imaging";
+Scan mode =			"MS";
+    technique =			"SE";
+Modified SE =			"no";
+Acquisition mode =		"cartesian";
+Fast Imaging mode =		"EPI";
+    shot mode =			"single-shot";
+Echoes =			1;
+    partial echo =		"no";
+TE =				"user defined";
+    (ms) =			70;
+Flip angle (deg) =		90;
+TR =				"shortest";
+Halfscan =			"no";
+Water-fat shift =		"minimum";
+Shim =				"auto";
+Fat suppression =		"SPIR";
+   strength =			"strong";
+   frequency offset =		"default";
+Water suppression =		"no";
+Grad. rev. offres. supp. =	"no";
+BB pulse =			"no";
+MTC =				"no";
+Research prepulse =		"no";
+Diffusion mode =		"no";
+SAR mode =			"high";
+B1 mode =			"default";
+PNS mode =			"high";
+Gradient mode =			"maximum";
+SofTone mode =			"no";
+Cardiac synchronization =	"no";
+Heart rate > 250 bpm =		"no";
+Respiratory compensation =	"no";
+Navigator respiratory comp =	"no";
+Flow compensation =		"no";
+Temporal slice spacing =	"default";
+NSA =				1;
+Manual start =			"yes";
+Dynamic study =			"individual";
+    dyn scans =			80;
+    recon multiplier =		1;
+    dyn scan times =		"shortest";
+    FOV time mode =		"default";
+    dummy scans =		0;
+    immediate subtraction =	"no";
+    fast next scan =		"no";
+    synch. ext. device =	"no";
+    dyn stabilization =		"no";
+    prospect. motion corr. =	"yes";
+Keyhole =			"no";
+Arterial Spin labeling =	"no";
+Preparation phases =		"auto";
+Interactive F0 =		"no";
+B0 field map =			"no";
+B1 field map =			"no";
+MIP/MPR =			"no";
+Images =			" M", (3) " no";
+Autoview image =		" M";
+Calculated images =		(4) " no";
+Reference tissue =		"Grey matter";
+EPI 2D phase correction =	"no";
+Preset window contrast =	"soft";
+Reconstruction mode =		"real time";
+    reuse memory =		"no";
+Save raw data =			"no";
+Hardcopy protocol =		"no";
+Ringing filtering =		"rectangular";
+Geometry correction =		"default";
+IF_info_seperator =		0;
+Total scan duration =		"01:51.3";
+Rel. signal level (%) =		100;
+Act. TR (ms) =			"1341";
+Act. TE (ms) =			"70";
+Dyn. scan time =		"00:01.3";
+ACQ matrix M x P =		"120 x 120";
+ACQ voxel MPS (mm) =		"2.00 / 2.00 / 4.00";
+REC voxel MPS (mm) =		"1.88 / 1.88 / 4.00";
+Scan percentage (%) =		100;
+Packages =			1;
+Min. slice gap (mm) =		0;
+EPI factor =			63;
+WFS (pix) / BW (Hz) =		"15.554 / 27.9";
+BW in EPI freq. dir. (Hz) =	"2437.2";
+SAR / head =			"<  36 %";
+Whole body / level =		"< 0.1 W/kg / normal";
+B1 rms =			"1.41 uT";
+PNS / level =			"100 % / 1st level";
+Sound Pressure Level (dB) =	23.1749554;
