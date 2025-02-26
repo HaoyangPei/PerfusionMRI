@@ -10,15 +10,22 @@ Install dependencies with
 ```
 
 ### Prepare the data
-1. Store the data in H5 format with the following variables:
-DCE (dimensions: Z × T × W × H)
-MTT (dimensions: Z × W × H)
-rCBF (dimensions: Z × W × H)
-rCBV (dimensions: Z × W × H)
-2. Save the filenames of the training, validation, and test datasets into the following text files:
-train.txt for training data
-val.txt for validation data
-test.txt for test data
+#### 1. Store the Data in H5 Format
+Save the data in an HDF5 (`.h5`) file with the following variables:
+
+- **DCE** `(Z × T × W × H)`
+- **MTT** `(Z × W × H)`
+- **rCBF** `(Z × W × H)`
+- **rCBV** `(Z × W × H)`
+
+#### 2. Save Dataset Filenames
+Store the filenames of the training, validation, and test datasets in the respective text files:
+
+- `train.txt` → Contains filenames for training data
+- `val.txt` → Contains filenames for validation data
+- `test.txt` → Contains filenames for test data
+
+Ensure the filenames are listed one per line in each text file.
 
 ### Training
 Run the training script with
