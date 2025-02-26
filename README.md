@@ -9,6 +9,9 @@ Install dependencies with
   pip install -r requirements.txt
 ```
 
+### Imaging protocol
+The details of our imaging protocol are available at: [LINK_TO_DOCUMENT]
+
 ### Prepare the data
 #### 1. Store the Data in H5 Format
 Save the data in an HDF5 (`.h5`) file with the following variables:
