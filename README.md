@@ -18,6 +18,12 @@ Save the data in an HDF5 (`.h5`) file with the following variables:
 - **rCBF** `(Z × W × H)`
 - **rCBV** `(Z × W × H)`
 
+Note that 
+  - `Z`: Number of slices  
+  - `T`: Number of frames  
+  - `W`: Width  
+  - `H`: Height
+
 #### 2. Save Dataset Filenames
 Store the filenames of the training, validation, and test datasets in the respective text files:
 
