@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/gpfs/scratch/hp2173/perfusion_MRI')
+sys.path.append('/XXX/perfusion_MRI')
 
 import numpy as np
 import torch
